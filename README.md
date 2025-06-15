@@ -13,7 +13,7 @@
 ## 発表に関するルール
 
 - markdown形式で作成すること
- - [発表資料の例](speech/chiikawa.md)
+  - [発表資料の例](speech/chiikawa.md)
 - 格納場所は下記とします
- - https://github.com/raycast-jp/20250622_speechx/speech
+  - https://github.com/raycast-jp/20250622_speechx/speech
 - 発表時間は一人5分までとします
