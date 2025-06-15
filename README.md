@@ -17,3 +17,4 @@
 - 格納場所は下記とします
   - https://github.com/raycast-jp/20250622_speechx/speech
 - 発表時間は一人5分までとします
+- 画像は`images`に格納して参照するにしてください
