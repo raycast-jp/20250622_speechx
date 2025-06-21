@@ -22,6 +22,9 @@ Raycastは、Macユーザー向けの生産性向上ツールであり、Spotlig
 
 **技術的補完性**: ThomasのAR・デスクトップ経験とPetrのmacOS・iOS専門知識が、Raycastの技術基盤を支えています。
 
+![Raycast創業者](../images/raycast-history/raycast-founders.webp)
+*Thomas Paul Mann（左）とPetr Nikolaev（右）- Raycast共同創設者*
+
 ## 創業期（2017-2020）
 
 ### Facebook時代からの始まり
